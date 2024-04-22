@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+ultralytics 8.0.228 add training time argument (#7054)
